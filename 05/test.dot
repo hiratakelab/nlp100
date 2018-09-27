@@ -1,0 +1,11 @@
+graph "g" {
+   node [fontname="arialuni.ttf", fontsize=10, charset="utf-8"]
+   "root";
+   "日本語";
+   "root" -- "日本語";
+   "ラテン語";
+   "root" -- "ラテン語";
+   "英語";
+   "root" -- "英語";
+   "ラテン語" -- "英語";
+}
