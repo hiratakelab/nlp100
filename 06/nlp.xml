@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+ <sentences type="list">
+  <item type="dict">
+   <words type="list">
+    <item type="list">
+     <item type="str">
+      Natural
+     </item>
+     <item type="dict">
+      <CharacterOffsetBegin type="str">
+       0
+      </CharacterOffsetBegin>
+      <CharacterOffsetEnd type="str">
+       7
+      </CharacterOffsetEnd>
+      <PartOfSpeech type="str">
+       JJ
+      </PartOfSpeech>
+      <Lemma type="str">
+       natural
+      </Lemma>
+      <NamedEntityTag type="str">
+       O
+      </NamedEntityTag>
+     </item>
+    </item>
+    <item type="list">
+     <item type="str">
+      language
+     </item>
+     <item type="dict">
+      <CharacterOffsetBegin type="str">
+       8
+      </CharacterOffsetBegin>
+      <CharacterOffsetEnd type="str">
+       16
+      </CharacterOffsetEnd>
+      <PartOfSpeech type="str">
+       NN
+      </PartOfSpeech>
+      <Lemma type="str">
+       language
+      </Lemma>
+      <NamedEntityTag type="str">
+       O
+      </NamedEntityTag>
+     </item>
+    </item>
+    <item type="list">
+     <item type="str">
+      processing
+     </item>
+     <item type="dict">
+      <CharacterOffsetBegin type="str">
+       17
+      </CharacterOffsetBegin>
+      <CharacterOffsetEnd type="str">
+       27
+      </CharacterOffsetEnd>
+      <PartOfSpeech type="str">
+       NN
+      </PartOfSpeech>
+      <Lemma type="str">
+       processing
+      </Lemma>
+      <NamedEntityTag type="str">
+       O
+      </NamedEntityTag>
+     </item>
+    </item>
+   </words>
+   <parsetree type="list"/>
+   <dependencies type="list"/>
+   <indexeddependencies type="list"/>
+   <text type="str">
+    Natural language processing
+   </text>
+  </item>
+ </sentences>
+</root>
